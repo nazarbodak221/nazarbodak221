@@ -54,12 +54,8 @@ I enjoy **solving complex problems**, writing **clean code**, and delivering **h
 - Integrated secure **payment processing and real-time analytics**.
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nazarbodak)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://github.com/nazarbodak221)
 
-📩 **Contact:**
-- 📧 Email: nazak.bodak1993@gmail.com
-- 📞 Phone: +380953549489
 
 ---
 ⚡ Always open to **collaborations & new opportunities**!
