@@ -6,6 +6,12 @@ I'm an **Experienced Python Back-end Developer** with 5+ years of experience in 
 I enjoy **solving complex problems**, writing **clean code**, and delivering **high-quality projects**. Let’s build something great together! 💡
 
 ## 💼 Work Experience
+
+### **Python Developer | Freelance (2024 - Present)**
+- Created custom web applications using **Django, Flask, and FastAPI**.
+- Built API systems for **SaaS and e-commerce platforms**.
+- Developed web scraping tools with **Scrapy and Selenium**.
+
 ### **Senior Python Developer | BLACK STONE (2021 - 2024)**
 - Developed and enhanced backend systems utilizing **Django, FastAPI, and Flask**.
 - Designed and optimized database structures for **PostgreSQL and MongoDB**.
@@ -13,15 +19,10 @@ I enjoy **solving complex problems**, writing **clean code**, and delivering **h
 - Implemented **OAuth2 and JWT authentication** for security.
 - Led a development team, conducted **code reviews**, and optimized **deployment pipelines**.
 
-### **Python Developer | StarApps (2024 - Present)**
+  ### **Python Developer | StarApps (2020 - 2021)**
 - Building and improving backend systems with **Python frameworks**.
 - Enhancing database performance and optimizing API response times.
 - Implementing cloud-based solutions for scalability and efficiency.
-
-### **Python Developer | Freelance (2020 - 2021)**
-- Created custom web applications using **Django, Flask, and FastAPI**.
-- Built API systems for **SaaS and e-commerce platforms**.
-- Developed web scraping tools with **Scrapy and Selenium**.
 
 ## 🔥 Skills & Expertise
 - **Programming Languages:** Python (5+ years), JavaScript (1.5 years)
